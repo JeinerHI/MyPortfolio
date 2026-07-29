@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your web development skills with a modern portfolio featuring animated designs, theme switching, and detailed project presentations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
