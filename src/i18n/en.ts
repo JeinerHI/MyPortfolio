@@ -178,11 +178,29 @@ export default {
         description:
           "Brand landing page for ABP Set Pieces, a coaching business for UEFA PRO Coach Bori Moreno specializing in set-piece strategy. Built in WordPress following the brand's identity, self-hosted on a private VPS with Nginx and PHP.",
       },
+      titanmoodwebapp: {
+        title: "TitanMood — Trainer Dashboard",
+        category: "SaaS · Fitness Coaching",
+        description:
+          "The trainer-facing dashboard of TitanMood, a fitness coaching platform built as a graduation project. Coaches build reusable workout templates, assign them to clients as live plans, and track adherence, body measurements, and training progress from a single dashboard — backed entirely by Supabase with Postgres Row Level Security, no custom API server.",
+      },
+      titanmoodmobileapp: {
+        title: "TitanMood — Client App",
+        category: "Mobile · Fitness Coaching",
+        description:
+          "The client-facing companion app to the TitanMood trainer dashboard. Trainees follow their assigned workout plan, log sessions set-by-set with a built-in rest timer, track body measurements and progress, and get post-workout comparisons against their previous session — all synced in real time with their coach through a shared Supabase backend.",
+      },
       titanmoodweb: {
-        title: "TitanMood",
+        title: "TitanMood — Marketing Site",
         category: "Marketing · Fitness",
         description:
           "Marketing website for TitanMood, a fitness coaching brand. A Strapi-powered CMS feeds content to a statically generated Astro frontend at build time, keeping the site fast while staying easy to update.",
+      },
+      smarthomeweb: {
+        title: "Smart Hogar",
+        category: "Marketing · Home Automation",
+        description:
+          "Website for a home automation installation and consulting business, covering smart-device setup and maintenance. Built and deployed on WordPress, with a strong focus on SEO — implemented using Rank Math, Google Analytics, and Google Search Console.",
       },
     },
   },

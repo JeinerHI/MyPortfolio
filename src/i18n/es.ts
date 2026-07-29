@@ -180,11 +180,29 @@ const es: typeof en = {
         description:
           "Página de aterrizaje de marca para ABP Set Pieces, un negocio de coaching del entrenador UEFA PRO Bori Moreno especializado en estrategia de balón parado. Construida en WordPress siguiendo la identidad de marca, alojada en una VPS privada con Nginx y PHP.",
       },
+      titanmoodwebapp: {
+        title: "TitanMood — Panel de Entrenador",
+        category: "SaaS · Coaching Deportivo",
+        description:
+          "El panel para entrenadores de TitanMood, una plataforma de coaching deportivo construida como proyecto de fin de grado (DAW). Los entrenadores crean plantillas de entrenamiento reutilizables, las asignan a clientes como planes activos, y siguen la adherencia, medidas corporales y progreso de entrenamiento desde un solo panel — todo respaldado por Supabase con Row Level Security en Postgres, sin servidor de API propio.",
+      },
+      titanmoodmobileapp: {
+        title: "TitanMood — App de Cliente",
+        category: "Móvil · Coaching Deportivo",
+        description:
+          "La app complementaria para clientes del panel de entrenador de TitanMood. Los usuarios siguen su plan de entrenamiento asignado, registran sesiones serie por serie con temporizador de descanso integrado, hacen seguimiento de medidas corporales y progreso, y reciben comparativas post-entrenamiento contra su sesión anterior — todo sincronizado en tiempo real con su entrenador mediante un backend compartido en Supabase.",
+      },
       titanmoodweb: {
-        title: "TitanMood",
+        title: "TitanMood — Sitio de Marketing",
         category: "Marketing · Fitness",
         description:
           "Sitio web de marketing para TitanMood, una marca de entrenamiento físico. Un CMS con Strapi alimenta de contenido a un frontend estático en Astro generado en tiempo de build, manteniendo el sitio rápido y fácil de actualizar.",
+      },
+      smarthomeweb: {
+        title: "Smart Hogar",
+        category: "Marketing · Domótica",
+        description:
+          "Sitio web para un negocio de instalación y consultoría de domótica, cubriendo configuración y mantenimiento de dispositivos inteligentes. Construido y desplegado en WordPress, con un fuerte enfoque en SEO — implementado con Rank Math, Google Analytics y Google Search Console.",
       },
     },
   },
