@@ -60,7 +60,7 @@ const es: typeof en = {
         tags: ["Next.js", "Supabase", "WordPress", "Liderazgo de Equipo"],
       },
       {
-        role: "Encargado de Bodega y Preparación",
+        role: "Jefe de Almacén",
         company: "Cisnes",
         period: "2023 — 2025",
         location: "España",
@@ -69,18 +69,18 @@ const es: typeof en = {
         tags: ["Logística", "Coordinación", "Gestión de Procesos"],
       },
       {
-        role: "Administrador",
+        role: "Administrador (negocio familiar, tiempo parcial, en paralelo)",
         company: "Ferromateriales JDH",
         period: "2021 — 2022",
         location: "Cali, Colombia",
         description:
-          "Administré el negocio a nivel gerencial, gestionando suministros, ventas y finanzas del negocio con herramientas como Visual Basic y MySQL.",
+          "Administré el negocio familiar a nivel gerencial de forma paralela a mi rol en Femme International, gestionando suministros, ventas y finanzas del negocio con herramientas como Visual Basic y MySQL.",
         tags: ["Gestión de Negocios", "MySQL", "Visual Basic"],
       },
       {
         role: "Ingeniero de Métodos",
         company: "Femme International",
-        period: "2020 — 2022",
+        period: "2021 — 2022",
         location: "Cali, Colombia",
         description:
           "Supervisé la planta de producción y el equipo de trabajo, organizando horarios y flujo de producción. Desarrollé estrategias de gestión de procesos y definí objetivos e indicadores de producción.",

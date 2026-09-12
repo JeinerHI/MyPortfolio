@@ -58,7 +58,7 @@ export default {
         tags: ["Next.js", "Supabase", "WordPress", "Team Lead"],
       },
       {
-        role: "Warehouse & Preparation Manager",
+        role: "Warehouse Manager",
         company: "Cisnes",
         period: "2023 — 2025",
         location: "Spain",
@@ -67,18 +67,18 @@ export default {
         tags: ["Logistics", "Coordination", "Process Management"],
       },
       {
-        role: "Administrator",
+        role: "Administrator (family business, part-time, concurrent)",
         company: "Ferromateriales JDH",
         period: "2021 — 2022",
         location: "Cali, Colombia",
         description:
-          "Managed the business at an executive level, handling supplies, sales, and business finances using tools such as Visual Basic and MySQL.",
+          "Managed the family business at an executive level alongside my role at Femme International, handling supplies, sales, and business finances using tools such as Visual Basic and MySQL.",
         tags: ["Business Management", "MySQL", "Visual Basic"],
       },
       {
         role: "Methods Engineer",
         company: "Femme International",
-        period: "2020 — 2022",
+        period: "2021 — 2022",
         location: "Cali, Colombia",
         description:
           "Supervised the production plant and work team, organizing schedules and production flow. Developed process management strategies and defined production objectives and indicators.",
