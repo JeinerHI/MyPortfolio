@@ -26,7 +26,7 @@ const es: typeof en = {
     roleBold: "Desarrollador Web.",
     subtitle:
       "Construyo aplicaciones web responsivas y automatizo los flujos de trabajo detrás de ellas — combinando el pensamiento orientado a procesos de mi formación industrial con herramientas modernas de frontend, backend y automatización como n8n.",
-    tagline: "Recién graduado en Desarrollo de Aplicaciones Web en Málaga, España, y ahora construyendo proyectos reales en el camino.",
+    tagline: "Abierto a nuevas oportunidades y siempre construyendo algo en paralelo.",
     badges: ["JavaScript", "Next.js", "Supabase", "Tailwind", "Automatización n8n", "Análisis de Procesos"],
     ctaProjects: "Ver Proyectos",
     ctaExperience: "Mi Experiencia",
@@ -53,10 +53,10 @@ const es: typeof en = {
       {
         role: "Prácticas de Desarrollador Full-Stack",
         company: "Mickrea",
-        period: "2026 — Presente",
+        period: "Mar 2026 — Jun 2026",
         location: "Málaga, España",
         description:
-          "Diseñando un sitio web corporativo en WordPress y una plataforma académica full-stack con Next.js y Supabase, desplegada en una VPS dedicada. Coordinando y liderando al equipo de desarrollo hacia los objetivos de la empresa.",
+          "Diseñé un sitio web corporativo en WordPress y una plataforma académica full-stack con Next.js y Supabase, desplegada en una VPS dedicada. Coordiné y lideré al equipo de desarrollo hacia los objetivos de la empresa.",
         tags: ["Next.js", "Supabase", "WordPress", "Liderazgo de Equipo"],
       },
       {

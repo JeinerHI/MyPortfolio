@@ -24,7 +24,7 @@ export default {
     roleBold: "Web Developer.",
     subtitle:
       "I build responsive web applications and automate the workflows behind them — combining process-driven thinking from my industrial background with modern frontend, backend, and automation tools like n8n.",
-    tagline: "Recently graduated in Web Application Development in Málaga, Spain, and now building real projects along the way.",
+    tagline: "Open to new opportunities and always building something on the side.",
     badges: ["JavaScript", "Next.js", "Supabase", "Tailwind", "n8n Automation", "Process Analysis"],
     ctaProjects: "View Projects",
     ctaExperience: "My Experience",
@@ -51,10 +51,10 @@ export default {
       {
         role: "Full-Stack Developer Internship",
         company: "Mickrea",
-        period: "2026 — Present",
+        period: "Mar 2026 — Jun 2026",
         location: "Málaga, Spain",
         description:
-          "Building a corporate marketing site in WordPress and a full-stack academic platform with Next.js and Supabase, deployed on a dedicated VPS. Coordinating and leading the development team toward the company's goals.",
+          "Built a corporate marketing site in WordPress and a full-stack academic platform with Next.js and Supabase, deployed on a dedicated VPS. Coordinated and led the development team toward the company's goals.",
         tags: ["Next.js", "Supabase", "WordPress", "Team Lead"],
       },
       {

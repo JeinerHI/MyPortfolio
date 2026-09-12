@@ -1,5 +1,5 @@
 export const experienceMeta = [
-  { year: "2026", current: true },
+  { year: "2026", current: false },
   { year: "2023", current: false },
   { year: "2020", current: false },
   { year: "2021", current: false },
